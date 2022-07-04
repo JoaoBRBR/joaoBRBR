@@ -17,7 +17,7 @@
 
 ### &nbsp; My Favourite Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Processing](https://img.shields.io/badge/-Processing-blue)&nbsp;
 
 ---
 ### &nbsp;My contacts:
