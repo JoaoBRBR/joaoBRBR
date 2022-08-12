@@ -3,7 +3,7 @@
 <div align="center">
     <img style="" width="250">
 </div>
-<h1 align="center">Hey. I am João,  Im 20 yo.</h1>
+<h1 align="center">Hey. I am João,  I'm 20 yo.</h1>
 
 ### &nbsp;My Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
