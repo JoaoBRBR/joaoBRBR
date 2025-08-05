@@ -1,4 +1,4 @@
-![]([https://miro.medium.com/v2/resize:fit:1284/0*88gG0j7MXNrVk0mO.gif](https://www.greekorthodoxchurchipswich.org/assets/images/large-images/lg-img-platytera.jpg))
+![](https://miro.medium.com/v2/resize:fit:1284/0*88gG0j7MXNrVk0mO.gif](https://www.greekorthodoxchurchipswich.org/assets/images/large-images/lg-img-platytera.jpg)
 
 <h1 align="center">João Victor</h1>
 
